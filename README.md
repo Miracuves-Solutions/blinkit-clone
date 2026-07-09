@@ -1,354 +1,121 @@
-# Blinkit Clone — White-Label Solution by Miracuves
+# Blinkit Clone — White-Label Quick-Commerce Grocery Delivery Platform by Miracuves
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxepto.mimeld.com)
-[![Solution Page](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/blinkit-clone/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxgroc.mimeld.com)
+[![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/blinkit-clone/)
 [![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/blinkit-clone/#pricing)
 [![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
 
+**MXGroc** is a production-ready, white-label Blinkit clone: a complete quick-commerce grocery platform with customer, store-ops, and picker apps — delivered with **100% source code ownership** in **6 working days**.
+
+> 🛒 **See it running before you talk to anyone.** Live customer app, store ops console, picker app, and admin dashboard — demo credentials are printed on the [solution page](https://miracuves.com/blinkit-clone#demo). No sales call required.
+
 ---
 
-## Table of Contents
-
-1. [Who Is This For?](#who-is-this-for)
-2. [How It Works](#how-it-works)
-3. [Core Features](#core-features)
-4. [Architecture](#architecture)
-5. [Revenue Streams](#revenue-streams)
-6. [What's Included](#whats-included)
-7. [Deployment Timeline](#deployment-timeline)
-8. [Why Not Build From Scratch?](#why-not-build-from-scratch)
-9. [Market Opportunity](#market-opportunity)
-10. [Client Testimonials](#client-testimonials)
-11. [FAQ](#faq)
-12. [Resources](#resources)
-13. [About Miracuves](#about-miracuves)
-
-## Live Demos
+## 🚀 Live Demos
 
 | Environment | URL | What you can test |
 |---|---|---|
-| Web Platform | [mxepto.mimeld.com](https://mxepto.mimeld.com) | Full experience in the browser |
-| Admin Dashboard | [Solution page → Demo](https://miracuves.com/blinkit-clone/#demo) | Users, content, plans, analytics |
+| 📱 Customer App (Android) | [mas.mimeld.com](https://mas.mimeld.com) | Search products, smart lists, scheduled delivery, live tracking |
+| 🏪 Store Ops Dashboard | [Solution page → Demo](https://miracuves.com/blinkit-clone#demo) | Inventory sync, SKU mgmt, promotions, picking routes |
+| 📦 Picker App | [Solution page → Demo](https://miracuves.com/blinkit-clone#demo) | Pick lists, store routing, batched fulfilment, instant pay |
+| 🛠️ Admin Console | [Solution page → Demo](https://miracuves.com/blinkit-clone#demo) | Dark stores, inventory, commissions, demand forecasting |
 
-Demo credentials: [miracuves.com/blinkit-clone -> Demo section](https://miracuves.com/blinkit-clone/#demo)
-
-## What Makes This Blinkit Clone Different
-
-<!-- TODO: fill 3-5 vertical-specific differentiators -->
-
-## Who Is This For?
-
-| Buyer Type | Use Case |
-|---|---|
-| Startup Founders | Launch a 10-minute instant delivery service |
-| Retail Chains | Add online ordering with instant delivery to existing stores |
-| Dark Store Operators | Build a network of fulfilment centres with one platform |
+Demo credentials for all environments: **[miracuves.com/blinkit-clone → Demo section](https://miracuves.com/blinkit-clone/#demo)**
 
 ---
 
-## How It Works
+## ✨ What Makes This Blinkit Clone Different
 
-1. Customer browses the catalog of nearby dark stores and adds items
-2. Order is routed to the nearest dark store with in-stock items
-3. Store picks and packs in under 60 seconds
-4. Delivery partner collects and navigates the optimized route to customer
-5. Customer receives real-time tracking and ETA updates
-6. Delivery completed; live tracking confirms drop-off
+Most grocery-delivery scripts stop at "search + checkout." This platform ships with the features that actually run a quick-commerce *business*:
 
----
+- **10-Minute Delivery Engine** — dark-store geo-fencing, picker-routing AI, and rider batching designed for the 10-minute promise Blinkit built on
+- **Smart Substitution Engine** — when an item is out of stock, the system suggests the closest match (size, brand, price) and offers 1-tap customer approval
+- **Multi-Tier Inventory** — warehouses → dark stores → micro-fulfilment → rider — single inventory model that tracks SKU location in real time
+- **Expiry & Waste Reduction** — automatic markdown rules based on days-to-expiry, supplier returns workflow, and waste analytics by category
+- **B2B & B2C Unified** — same platform serves household customers and HoReCa businesses with separate pricing, invoicing, and credit terms
 
-## Core Features
+## 📦 Core Features
 
-### Customer App
-- Product catalog
-- Smart search
-- Cart & checkout
-- Scheduled delivery
-- Real-time tracking
-- Subscriptions
-- Saved favorites
-- Payment options
+**Customer:** search products · smart lists · scheduled delivery · live order tracking · substitutions handling · multi-payment · loyalty rewards · 10-min express delivery
 
-### Store Panel
-- Inventory management
-- Order picking
-- Analytics
-- Promotions
+**Store Manager:** inventory sync · SKU management · promotions · expiry tracking · dark-store ops · picking routes · supplier management
 
-### Picker App
-- Pick list
-- Route optimization
-- Barcode scanning
-- Proof of delivery
+**Delivery Partner:** pick-list navigation · store-aware routing · batch deliveries · instant pay · performance metrics
 
-### Admin Panel
-- Store onboarding
-- Inventory sync
-- Commission mgmt
-- Analytics dashboard
-- Delivery zones
+**Admin:** dark-store network · dynamic inventory · category management · commission engine · demand forecasting · regional pricing
 
----
-
-## Advanced Features
-
-The platform integrates AI-powered features that reduce manual overhead and capture revenue opportunities:
-
-- **AI Demand Forecasting** - Predicts product demand per zone per hour for optimal stock placement
-- **AI Route Optimization** - Calculates the fastest delivery routes for sub-10-minute delivery
-- **AI Inventory Planning** - Automatically recommends restock levels based on sales velocity
-- **AI Substitutions** - Smart suggestions for out-of-stock items
-
----
-
-## Apps and Web Panels
-
-| Module | Description |
-|---|---|
-| Customer App (iOS + Android) | Browse, cart, order, track, pay |
-| Delivery Partner App (iOS + Android) | Pickup, navigation, proof of delivery |
-| Dark Store Web Panel | Inventory, picking, alerts, reports |
-| Admin Web Panel | Stores, zones, drivers, analytics |
-
----
-
-## Architecture
+## 🏗️ Architecture
 
 ```mermaid
 flowchart LR
-    A[Flutter Apps<br/>Android · iOS] --> G[REST API<br/>Laravel Backend]
-    W[Web Platform<br/>Responsive] --> G
-    P[Partner Panel] --> G
-    AD[Admin Dashboard] --> G
-    G --> DB[(MySQL)]
-    G --> S3[Object Storage]
+    A[Customer App<br/>Flutter]
+    B[Store Ops Dashboard]
+    W[Picker App<br/>Flutter]
+    AD[Admin Console]
+    A --> G[REST API<br/>Node.js]
+    B --> G
+    W --> G
+    AD --> G
+    G --> DB[(MongoDB)]
+    G --> ML[ML Service<br/>Demand Forecast]
+    ML --> A
+    G --> PAY[Stripe/Razorpay/COD]
+    G --> MAP[Mapbox Routing]
 ```
 
-**Stack:**
+**Stack:** Flutter mobile apps · Node.js backend · MongoDB for product catalog · Redis for inventory locks · ML service for demand forecasting · Stripe, Razorpay, COD support
 
-| Layer | Technology |
-|---|---|
-| Mobile Apps | Flutter (iOS + Android, single codebase) |
-| Backend API | Node.js + Express |
-| Database | MongoDB |
-| Real-time | WebSockets (Socket.io) |
-| Maps and Routing | Google Maps API / Mapbox |
-| Payments | Stripe, Razorpay, PayPal |
-| Notifications | Firebase Cloud Messaging (FCM) |
-| Cloud Hosting | AWS / DigitalOcean / Contabo VPS |
-| Admin Panel | React.js |
+## 📋 What’s Included
 
----
+- ✅ Full source code — backend, web, mobile apps, panels (no encryption, no license locks)
+- ✅ Deployment to your servers & app store submission assistance
+- ✅ Your branding — white-label rename, logo, colors, domain
+- ✅ 60 days post-launch support + 12 months of free updates
+- ✅ Documentation & handover
 
-## Revenue Streams
+**Pricing:** from **$2,899**, transparent on the [solution page](https://miracuves.com/blinkit-clone/#pricing) — no "contact us for quote" games.
 
-The platform is engineered to generate revenue from day one through multiple complementary channels:
+## 🆚 Why Not Build From Scratch?
 
-- **Commission per order** - take 15-25% from each sale
-- **Delivery fees** - flat or distance-based charges per order
-- **Subscription memberships** - monthly premium with free delivery
-- **Promoted listings** - vendors pay for category visibility
-- **Surge delivery fees** - higher fees during peak hours
-- Commission per order
-- Delivery fee
-- Store subscription
-- Promoted products
-- Surge pricing
+Custom quick-commerce platforms run $80k–$350k and 5–10 months. A proven white-label base gets you to market in 6 working days for a fraction of that, with your budget preserved for dark-store buildout and rider incentives.
 
----
+## 📚 Resources
 
-## Security and Compliance
+- 📖 [Blinkit Clone — Full Solution Page](https://miracuves.com/blinkit-clone) (features, pricing, demos, FAQ)
+- 💰 [How Much Does a Grocery Delivery App Cost in 2026?](https://miracuves.com/blinkit-clone#pricing) pricing breakdown & what's included
+- 📝 [Best Blinkit Clone Script in 2026](https://miracuves.com/blinkit-clone/blog/) features, pricing & launch guide
+- 🧠 [Why Dark Stores Beat Hyperlocal Warehouses](https://miracuves.com/blinkit-clone/blog/) lessons from Blinkit & Zepto
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/blinkit-clone/facts/) every claim we make, verified
 
-- OTP-based authentication
-- SSL/TLS encrypted API communication
-- GDPR-ready data handling
+## 🏢 About Miracuves
+
+[Miracuves Solutions](https://miracuves.com) builds white-label clone apps and custom software from Mumbai, India — 90+ ready-made solutions, live demos for every product, transparent pricing, and delivery in 6 working days. Operating since 2010.
+
+**Talk to us:** [WhatsApp](https://wa.me/919830009649) · [Schedule a consultation](https://miracuves.com/schedule-consultation/) · [miracuves.com](https://miracuves.com)
 
 ---
 
-## What's Included
+### ⚠️ Note on This Repository
 
-| Plan | Price | What You Get |
-|---|---|---|
-| Standard | **$2,899** | Complete source code, all apps, admin panel, rebranding, 1 year updates |
-| Enterprise | Custom Quote | Everything in Standard + custom features, multi-region, priority support |
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/blinkit-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
-**What is included:**
-
-- Customer App (iOS + Android)
-- Delivery Partner App (iOS + Android)
-- Dark Store Web Panel
-- Admin Web Panel
-- Full Source Code
-- Complete Rebranding (your logo, colors, app name)
-- Server Deployment
-- App Store and Google Play Submission Support
-- 60 Days Free Bug Support
-- Free 1-Year Updates
+*Keywords: blinkit clone, blinkit clone script, grocery delivery app development, quick commerce, white label grocery, dark store, Flutter grocery app, Node.js grocery platform*
 
 ---
-**Pricing:** from **$2,899** — transparent on the [solution page](https://miracuves.com/blinkit-clone/#pricing).
-
-
-## Deployment Timeline
-
-| Day | Milestone |
-|---|---|
-| Day 1 | Server setup, environment configuration, initial deployment |
-| Day 2 | White-labeling - app name, logo, colors, splash screens |
-| Day 3 | Payment gateway integration + third-party API configuration |
-| Day 4 | Custom feature implementation (if applicable) |
-| Day 5 | QA, testing, bug fixes across all panels |
-| Day 6 | App Store + Google Play submission + Go-live |
-
-> **Average go-live: 6 business days from payment confirmation.**
-
----
-
-## Why Not Build From Scratch?
-
-| Factor | Build from Scratch | Miracuves Solution |
-|---|---|---|
-| Time to Launch | 6-12 months | 6 days |
-| Development Cost | $60,000-$150,000 | From $2,899 |
-| Source Code Ownership | Yes | Yes |
-| Customization | Full | Full |
-| Post-Launch Support | Depends on team | 60 days included |
-| Risk | High | Low |
-
----
-
-## Market Opportunity
-
-| Metric | Data |
-|---|---|
-| Global Q-Commerce Market (2024) | $35 billion |
-| Projected Market Size (2030) | $72 billion |
-| CAGR | ~30% |
-| Key Growth Markets | India, SEA, MENA, LatAm |
-| Average Delivery Time Target | Under 10 minutes |
-
-> Source: Statista, Grand View Research, Allied Market Research
-
----
-
-## Successful Verticals
-
-- 10-minute grocery delivery (like Blinkit, Zepto)
-- Pharmacy and medicine instant delivery
-- Pet supplies and specialty instant delivery
-- Convenience store instant delivery
-- Quick commerce groceries
-- Organic food delivery
-- Pet supplies delivery
-- Baby essentials delivery
-- Household goods delivery
-
----
-
-## Client Testimonials
-
-> *"We hit 1,000 orders on day three. The 10-minute delivery promise works because the routing engine is that good."*
-> - CEO, Q-Commerce Startup
-
-> *"Exceptional results from day one."*
-> - Verified Client
-
-> *"Scaled 3x faster than expected."*
-> - Startup Founder
-
----
-
-## FAQ
-
-**How much does a Blinkit clone cost?**
-A white-label Blinkit clone from Miracuves starts at $2,899 with complete source code ownership.
-
-**Can it do 10-minute delivery?**
-Yes. The platform is optimized for hyperlocal logistics with dark store sync and route optimization.
-
-**How many dark stores can I manage?**
-Unlimited. The platform supports a network of dark stores with real-time inventory sync.
-
-**Do I get the source code?**
-Yes. Complete source code ownership is included - no vendor lock-in.
-
-**How long does it take to launch?**
-6 business days from payment confirmation.
-
----
-
-## Related Solutions
-
-Explore our other white-label clone solutions:
-
-- [AmazonFresh Clone - Grocery Delivery](https://github.com/Miracuves-Solutions/AmazonFresh-Clone)
-- [BigBasket Clone - Multi-Vendor Grocery](https://github.com/Miracuves-Solutions/BigBasket-Clone)
-- [Instacart Clone - Grocery Marketplace](https://github.com/Miracuves-Solutions/Instacart-Clone)
-
----
-
-## Resources
-
-- [Full Solution Page](https://miracuves.com/blinkit-clone/) — features, pricing, demos, FAQ
-
-
-## Get Started
-
-**Ready to launch your q-commerce instant delivery business?**
-
-| Channel | Link |
-|---|---|
-| Full Solution Page | [miracuves.com/blinkit-clone](https://miracuves.com/blinkit-clone/) |
-| Email | info@miracuves.com |
-| WhatsApp | [+91 98300 09649](https://wa.me/919830009649) |
-| Book a Call | [Free Consultation](https://miracuves.com/contact/) |
-
----
-
-## About Miracuves
-
-**Miracuves Solutions Pvt. Ltd.** is a Mumbai-based software company specializing in white-label clone app solutions across 12+ industries.
-
-- 90+ ready-to-deploy solutions
-- 6-day delivery guarantee
-- 60+ engineers on staff
-- 3,900+ apps delivered
-- Full source code ownership
-- Clients across 40+ countries including India and USA
-
-[Explore all 90+ solutions at miracuves.com](https://miracuves.com)
-
----
-
-## Disclaimer
-
-This product is independently developed by Miracuves. All product names, logos, and brands are property of their respective owners. Use of these names does not imply endorsement.
-
----
-
-<div align="center">
-
-*(c) 2026 Miracuves Solutions Pvt. Ltd. | Mumbai, India*
-*This repository contains product documentation only - no proprietary source code is published here.*
-
-</div>
-
-
-*Keywords: blinkit clone, blinkit script, white label solution, laravel flutter app, clone script*
-
-
-
----
-
-### Note on This Repository
-
-This repository is a product overview. The full source code is delivered to clients on purchase. For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
-
 
 <!--
-=========================================================
-GENERATED FROM MIRACUVES NETFLIX-CLONE README TEMPLATE
-Canon: 6 working days, from $2,799 floor, 60 days support + 12 months updates.
-Never use 3 days. See https://miracuves.com/facts/ for audited claims.
-=========================================================
+══════════════════════════════════════════════════
+TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
+══════════════════════════════════════════════════
+{APP_NAME}        Blinkit Clone
+{MX_NAME}         MXGroc
+{CATEGORY}        Quick-Commerce Grocery Delivery Platform
+{DEMO_WEB}        mxgroc.mimeld.com
+{PRICE}           $2,899
+{SLUG}            blinkit-clone
+{SOLUTION_URL}    https://miracuves.com/blinkit-clone/
+{VERTICAL}        grocery
+
+See /tmp/verticals/grocery.txt for the vertical config used to generate this README.
+══════════════════════════════════════════════════
 -->
