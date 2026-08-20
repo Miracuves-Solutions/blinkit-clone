@@ -1,11 +1,11 @@
 # Blinkit Clone — White-Label Quick-Commerce Grocery Delivery Platform by Miracuves
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxgroc.mimeld.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxdemo.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/blinkit-clone/)
-[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/blinkit-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/blinkit-clone/#features)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/blinkit-clone/#features)
 
-**MXGroc** is a production-ready, white-label Blinkit clone: a complete quick-commerce grocery platform with customer, store-ops, and picker apps — delivered with **100% source code ownership** in **6 working days**.
+**MXDemo** is a production-ready, white-label Blinkit clone: a complete quick-commerce grocery platform with customer, store-ops, and picker apps — delivered with **100% source code ownership** in **6 working days**.
 
 > 🛒 **See it running before you talk to anyone.** Live customer app, store ops console, picker app, and admin dashboard — demo credentials are printed on the [solution page](https://miracuves.com/blinkit-clone#demo). No sales call required.
 
@@ -73,7 +73,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$2,899**, transparent on the [solution page](https://miracuves.com/blinkit-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$2,899**, transparent on the [solution page](https://miracuves.com/blinkit-clone/#features) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -82,10 +82,12 @@ Custom quick-commerce platforms run $80k–$350k and 5–10 months. A proven whi
 ## 📚 Resources
 
 - 📖 [Blinkit Clone — Full Solution Page](https://miracuves.com/blinkit-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does a Grocery Delivery App Cost in 2026?](https://miracuves.com/blinkit-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Blinkit Clone Script in 2026](https://miracuves.com/blinkit-clone/blog/) features, pricing & launch guide
-- 🧠 [Why Dark Stores Beat Hyperlocal Warehouses](https://miracuves.com/blinkit-clone/blog/) lessons from Blinkit & Zepto
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/blinkit-clone/facts/) every claim we make, verified
+- 💰 [How Much Does a Grocery Delivery App Cost in 2026?](https://miracuves.com/blinkit-clone#features) pricing breakdown & what's included
+- 📝 [Best Blinkit Clone Script in 2026](https://miracuves.com/blinkit-clone#features) features, pricing & launch guide
+- 🧠 [Why Dark Stores Beat Hyperlocal Warehouses](https://miracuves.com/blinkit-clone#features) lessons from Blinkit & Zepto
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/blinkit-clone#faq) every claim we make, verified
+- 💻 [Blinkit Clone — Technical Stack](https://miracuves.com/blinkit-clone#techstack) languages, databases, infra, payments, hosting
+- 🔄 [Blinkit Clone — How It Works / User Flow](https://miracuves.com/blinkit-clone#flow) step-by-step product walkthrough
 
 ## 🏢 About Miracuves
 
@@ -97,7 +99,7 @@ Custom quick-commerce platforms run $80k–$350k and 5–10 months. A proven whi
 
 ### ⚠️ Note on This Repository
 
-This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/blinkit-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/blinkit-clone/#features). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
 *Keywords: blinkit clone, blinkit clone script, grocery delivery app development, quick commerce, white label grocery, dark store, Flutter grocery app, Node.js grocery platform*
 
@@ -108,9 +110,9 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Blinkit Clone
-{MX_NAME}         MXGroc
+{MX_NAME}         MXDemo
 {CATEGORY}        Quick-Commerce Grocery Delivery Platform
-{DEMO_WEB}        mxgroc.mimeld.com
+{DEMO_WEB}        mxdemo.mimeld.com
 {PRICE}           $2,899
 {SLUG}            blinkit-clone
 {SOLUTION_URL}    https://miracuves.com/blinkit-clone/
